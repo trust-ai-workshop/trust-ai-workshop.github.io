@@ -1,6 +1,3 @@
 title: "Workshop on Trustworthy AI"
 url: https://trust-ai-workshop.github.io/
-navigation:
-  - title: Schedule
-    url: /schedule
 theme: jekyll-theme-cayman
