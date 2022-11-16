@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Home
-logo_style: 'width: 280px; height: 70px;'
+title: Workshop on Trustworthy AI
 ---
 
-#### 2023 Workshop on Trustworthy AI for Healthcare
+#### Workshop on Trustworthy AI
