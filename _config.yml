@@ -5,4 +5,6 @@ navigation:
      url: /schedule.html
    - title: Participants
      url: /participants.html
+   - title: Local Arrangements
+     url: /local.html
 theme: jekyll-theme-cayman
