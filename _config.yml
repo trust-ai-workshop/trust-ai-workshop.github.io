@@ -3,6 +3,8 @@ url: https://trust-ai-workshop.github.io/
 navigation:
    - title: Schedule
      url: /schedule.html
+   - title: Register
+     url: /register.html
    - title: Participants
      url: /participants.html
    - title: Local Arrangements
